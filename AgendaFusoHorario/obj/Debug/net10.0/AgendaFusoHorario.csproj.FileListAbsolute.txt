@@ -1,0 +1,14 @@
+C:\Users\stark\RiderProjects\AgendaFusoHorario\AgendaFusoHorario\bin\Debug\net10.0\AgendaFusoHorario.exe
+C:\Users\stark\RiderProjects\AgendaFusoHorario\AgendaFusoHorario\bin\Debug\net10.0\AgendaFusoHorario.deps.json
+C:\Users\stark\RiderProjects\AgendaFusoHorario\AgendaFusoHorario\bin\Debug\net10.0\AgendaFusoHorario.runtimeconfig.json
+C:\Users\stark\RiderProjects\AgendaFusoHorario\AgendaFusoHorario\bin\Debug\net10.0\AgendaFusoHorario.dll
+C:\Users\stark\RiderProjects\AgendaFusoHorario\AgendaFusoHorario\bin\Debug\net10.0\AgendaFusoHorario.pdb
+C:\Users\stark\RiderProjects\AgendaFusoHorario\AgendaFusoHorario\obj\Debug\net10.0\AgendaFusoHorario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stark\RiderProjects\AgendaFusoHorario\AgendaFusoHorario\obj\Debug\net10.0\AgendaFusoHorario.AssemblyInfoInputs.cache
+C:\Users\stark\RiderProjects\AgendaFusoHorario\AgendaFusoHorario\obj\Debug\net10.0\AgendaFusoHorario.AssemblyInfo.cs
+C:\Users\stark\RiderProjects\AgendaFusoHorario\AgendaFusoHorario\obj\Debug\net10.0\AgendaFusoHorario.csproj.CoreCompileInputs.cache
+C:\Users\stark\RiderProjects\AgendaFusoHorario\AgendaFusoHorario\obj\Debug\net10.0\AgendaFusoHorario.dll
+C:\Users\stark\RiderProjects\AgendaFusoHorario\AgendaFusoHorario\obj\Debug\net10.0\refint\AgendaFusoHorario.dll
+C:\Users\stark\RiderProjects\AgendaFusoHorario\AgendaFusoHorario\obj\Debug\net10.0\AgendaFusoHorario.pdb
+C:\Users\stark\RiderProjects\AgendaFusoHorario\AgendaFusoHorario\obj\Debug\net10.0\AgendaFusoHorario.genruntimeconfig.cache
+C:\Users\stark\RiderProjects\AgendaFusoHorario\AgendaFusoHorario\obj\Debug\net10.0\ref\AgendaFusoHorario.dll
