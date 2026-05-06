@@ -83,7 +83,7 @@ AgendaFusoHorario/
 ### 1️⃣ Clone o repositório
 
 ```bash
-git clone <url-do-repositorio>
+git clone https://github.com/jaoAprendiz/csharp-cp1-agenda-fuso-horario.git
 ```
 
 ### 2️⃣ Acesse a pasta
